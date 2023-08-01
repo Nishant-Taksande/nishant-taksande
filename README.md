@@ -9,12 +9,9 @@ My name is Nishant and I'm a Quality engineer, from India
 ###
 ✨ Creating bugs since 2011<br>
 
-📚 I'm currently learning advanced testing techniques and latest test automation tools & practices
+📚 Highly experienced Software Quality Engineer with an impressive 11-year track record. With a passion for ensuring top-notch software, i excel in designing comprehensive test plans, identifying defects, and collaborating with cross-functional teams. Proficient in both manual and automated testing. 
 
-🎯 Goals: Deliver projects without <br>compromising timelines and quality. 
-
-
-I am currently working at [Thinkitive](https://github.com/thinkitivetech)
+🎯 I has a proven ability to deliver high-quality products while streamlining development processes. My adaptability to new technologies and exceptional communication skills make them a valuable asset in any team. With an unwavering commitment to excellence, i continue to be a driving force behind successful software projects.
 
 I code with
 
@@ -29,41 +26,3 @@ I code with
 </div>
 
 ###
-
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
