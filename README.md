@@ -13,6 +13,11 @@ My name is Nishant and I'm a Quality engineer, from India
 
 🎯 I has a proven ability to deliver high-quality products while streamlining development processes. My adaptability to new technologies and exceptional communication skills make them a valuable asset in any team. With an unwavering commitment to excellence, i continue to be a driving force behind successful software projects.
 
+
+Blogs: 
+[“Functional” Testing – Pure Permutations Approach](https://www.thinkitive.com/blog/software-functional-testing/)
+
+
 I code with
 
 ###
