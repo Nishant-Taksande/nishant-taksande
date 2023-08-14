@@ -1,7 +1,7 @@
 # Hey 👋 What's up?
 
 ###
-My name is Nishant and I'm a Quality engineer, from India
+My name is Nishant and I'm a Quality engineer, from India 🇮🇳
 ###
 
 ## About me
